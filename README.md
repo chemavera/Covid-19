@@ -8,6 +8,7 @@ En ella podemos hacer uso del dropdown para seleccionar entre los casos disponib
 * Total casos confirmados en los últimos 14 días.
 * Tasa de incidencia acumulada.
 * Tasa de incidencia acumulada total.
+
 Así como también se puede hacer uso del Slider para seleccionar el día a visualizar.
 En cuanto a la serie temporal, encontramos que de inicio solo se visualiza el total de la Comunidad de Madrid, pero clicando encima de los nombres de los distritos podemos agregarlos/desagregarlos para poder comparar los datos entre ellos. También podemos visualizar los datos posicionando el ratón encima de la gráfica que hará aparecer un cuadro con los datos.
 Finalmente encontramos un cuadro con los registros máximos encontrados en los últimos 14 días y el municipio en el que se han producido.
