@@ -2,6 +2,7 @@
 Interfaz web sobre los casos del Covid-19 en la Región de Madrid, utilizando la librería Dash de plotly.
 
 Esta puede ser de utilidad para poder ver la evolución de los casos de Covid-19, y posibles fallos en la recogida de datos (ej. caso de La Hiruela, que recoge la tasa acumulada más alta de la Comunidad de Madrid y se mantiene constante en el tiempo).
+
 En ella podemos hacer uso del dropdown para seleccionar entre los casos disponibles en la Comunidad de Madrid.
 * Casos confirmados en los últimos 14 días.
 * Total casos confirmados en los últimos 14 días.
