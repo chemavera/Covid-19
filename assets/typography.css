@@ -1,0 +1,71 @@
+body {
+    color: #7D6F63;
+    font-family: helvetica;
+    background: #131211;
+    width:100%;
+    height:100%
+}
+
+#right{
+    /*display:inline;*/
+    float:right;
+    padding-right:1%;
+    width:39%;
+    height:50px;
+}
+
+#left{
+    padding-right:1%;
+    float:left;
+    width:59%;
+}
+
+.Select-control,
+.Select-menu-outer{
+    color: #7D6F63;
+    width: 45%;
+}
+
+.Select Div,
+.has-value.Select--single,
+.select,
+.select-control,
+.select-value,
+.select-value-label,
+.has-value.Select--single>.Select-control .Select-value .Select-value-label, .has-value.is-pseudo-focused.Select--single>.Select-control .Select-value .Select-value-label{
+	color: #7D6F63;
+    font-style: helvetica;
+    background: #131211
+}
+
+.has-value,
+.Select--single,
+.Select-control
+.Select-value,
+.Select-value-label,
+.has-value.is-pseudo-focused,
+.Select--single>.Select-control,
+.Select-value,
+.Select-value-label{
+    color: #7D6F63;
+}
+.rc-slider-mark-text-active {
+    color: #D98179;
+}
+.rc-slider-dot,
+.rc-slider-dot-active,
+.rc-slider-handle,
+.rc-slider-handle:active,
+.rc-slider-handle:hover,
+.rc-slider-handle-click-focused:focus{
+    border: solid 2px #D98179;
+    background-color: #D98179;
+    border-color: #D98179;
+}
+.rc-slider-track{
+    background-color: #131211;
+}
+.rc-slider-rail{
+    color: #4A5055;
+    background-color: #4A5055;
+}
