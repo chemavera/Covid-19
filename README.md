@@ -13,9 +13,6 @@ Así como también se puede hacer uso del Slider para seleccionar el día a visu
 En cuanto a la serie temporal, encontramos que de inicio solo se visualiza el total de la Comunidad de Madrid, pero clicando encima de los nombres de los distritos podemos agregarlos/desagregarlos para poder comparar los datos entre ellos. También podemos visualizar los datos posicionando el ratón encima de la gráfica que hará aparecer un cuadro con los datos.
 Finalmente encontramos un cuadro con los registros máximos encontrados en los últimos 14 días y el municipio en el que se han producido.
 
-Para poder hacer uso del ```<iframe>``` primero hay que correr el archivo Embed_Interfaz.py para crear las visualizaciones en localhost. 
-Luego esta se vuelca en el archivo ReactivaMadrid.html. 
-
 ## Librerías implementadas:
 * werkzeug
 * flask
@@ -23,3 +20,7 @@ Luego esta se vuelca en el archivo ReactivaMadrid.html.
 * plotly
 * pandas
 * geojson
+
+## Nota:
+Para poder hacer uso del ```<iframe>``` primero hay que correr el archivo Embed_Interfaz.py para crear las visualizaciones en localhost. 
+Luego esta se vuelca en el archivo ReactivaMadrid.html. 
