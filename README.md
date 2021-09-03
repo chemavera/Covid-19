@@ -24,3 +24,6 @@ Finalmente encontramos un cuadro con los registros máximos encontrados en los �
 ## Nota:
 Para poder hacer uso del ```<iframe>``` primero hay que correr el archivo Embed_Interfaz.py para crear las visualizaciones en localhost. 
 Luego esta se vuelca en el archivo ReactivaMadrid.html. 
+
+## Muestra de como quedaría el dashboard:
+![Muestra Interfaz](https://github.com/chemavera/Covid-19/blob/master/Muestras/Muestra_Interfaz.png)
