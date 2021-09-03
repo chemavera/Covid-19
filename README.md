@@ -32,5 +32,4 @@ Para ver como han sido tratados los datos, visualiza el archivo Reactiva-Madrid.
 En la parte central se observa el mapa de la Comunidad de Madrid dividida por distritos, donde cada distrito es coloreado de un color en función de los casos de covid-19, en ella podemos visualizar los datos de cada municipio dejando el ratón encima de ellos. También podemos observar como cambian los datos en función del día haciendo uso del slider de la parte inferior del mapa.
 En la parte derecha, encontramos una serie temporal con los registros de cada municipio, así como un texto con los registros máximos históricos.
 
-## Muestra de como quedaría el dashboard:
 ![Muestra Interfaz](https://github.com/chemavera/Covid-19/blob/master/Muestras/Muestra_Interfaz.png)
