@@ -25,7 +25,7 @@ Finalmente encontramos un cuadro con los registros máximos encontrados en los �
 Para poder hacer uso del ```<iframe>``` primero hay que correr el archivo Embed_Interfaz.py para crear las visualizaciones en localhost. 
 Luego esta se vuelca en el archivo ReactivaMadrid.html. 
 
-##Nota 2:
+## Nota 2:
 Para ver como han sido tratados los datos, visualiza el archivo Reactiva-Madrid.ipynb
 
 ## Muestra de como quedaría el dashboard:
